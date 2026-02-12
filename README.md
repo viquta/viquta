@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🧠 Philosophy
+## 🧠 Work-Philosophy
 
-> Build things. Break things. Understand why they work.
+> Fail upward = Experiment x Learn 
 
