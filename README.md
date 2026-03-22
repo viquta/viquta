@@ -1,3 +1,4 @@
+```
 name: Victor
 location: Berlin, Germany
 education: B.S. Computer Science (31/36 courses completed)
@@ -30,3 +31,4 @@ stack:
     - Relational Databases
 
 philosophy: "Fail upward = Experiment x Learn"
+``` 
