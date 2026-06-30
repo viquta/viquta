@@ -4,8 +4,8 @@ location: Berlin, Germany
 education: B.S. Computer Science (33/36 courses completed)
 
 focus:
-  current: research essay on database architecture (UDFs, native systems)
-  exploring: SaaS for Schools with focus on Language Learning + NLP pipelines
+  current: Bachelor's Thesis
+  exploring: Artificial Intelligence --> Agents, Compression techniques, MCP, GAN etc.
   interests:
     - DevOps
     - backend systems
