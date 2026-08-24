@@ -15,13 +15,13 @@ focus:
 stack:
   languages:
     - Python
-    - Go
     - Java
     - SQL
     - JavaScript
     - Bash
     - PowerShell
     - VBA
+    - Go
     - Rust
   tools:
     - Git
