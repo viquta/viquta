@@ -24,6 +24,8 @@ stack:
     - Go
     - Rust
   tools:
+    - Claude Code
+    - VS Code
     - Git
     - Linux
     - Docker
