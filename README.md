@@ -1,7 +1,7 @@
 ```
 name: Victor
 location: Berlin, Germany
-education: B.S. Computer Science (33/36 courses completed)
+education: B.S. Computer Science (34/36 courses completed)
 
 focus:
   current: Bachelor's Thesis
